@@ -18,7 +18,7 @@
    <br>
    <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,nodejs,java,python,html,css,js&theme=dark&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=bash,nodejs,java,python,html,css,js,lua&theme=dark&perline=6"/>
   </a>
 </p>
 </td>
