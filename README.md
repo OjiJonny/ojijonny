@@ -2,7 +2,9 @@
  <table>
   <thead>
    <tr>
-      <th width="500px">   </th>
+      <th width="500px">
+       <b>Howdy 👋</b>
+    </th>
       <th width="500px">
        <img src="https://lanyard.kyrie25.me/api/217414221728710656?hideStatus=true&bg=2B2D31&waveColor=7289DA&waveSpotifyColor=7289DA&gradient=38ef7d-11998e-38ef7d&imgStyle=square" />
     </th>
