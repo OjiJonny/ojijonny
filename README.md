@@ -1,18 +1,33 @@
-### Languages
+![My Discord](https://discord-readme-badge.vercel.app/api?id=217414221728710656)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bash,python,js,html&theme=dark" />
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px">Languages</th>
+      <th width="500px">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+<td>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,bash,python,js,html&theme=dark&perline=6"/>
   </a>
 </p>
-
-### Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,discord,mongodb,github,linux,replit,stackoverflow,vscode&theme=dark" />
+</td>
+<td>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=atom,discord,mongodb,github,linux,replit,stackoverflow,vscode&theme=dark&perline=6" />
   </a>
 </p>
+</td>
+</tr>
+
+  </tbody>
+</table>
 <!--
 **OjiJonny/ojijonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
