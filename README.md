@@ -1,4 +1,4 @@
-<!-- prettier-ignore -->
+<!-- prettier-ignore. extra Lanyard code if wanted: &waveColor=7289DA&waveSpotifyColor=7289DA -->
  <table>
   <thead>
    <tr>
@@ -12,7 +12,7 @@
   <tr width="600px">
 <td width="500px">
   <p align="center">
-   Languages
+ <b>Languages</b>
    <br>
    <br>
     <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 </td>
 <td width="500px">
  <p align="center">
-   Tools
+  <b>Tools</b>
    <br>
    <br>
     <a href="https://skillicons.dev">
