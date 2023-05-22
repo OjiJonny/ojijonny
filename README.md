@@ -18,7 +18,7 @@
    <br>
    <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,bash,python,js,html,css&theme=dark&perline=3"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,bash,python,java,html,css,js&theme=dark&perline=6"/>
   </a>
 </p>
 </td>
@@ -28,7 +28,7 @@
    <br>
    <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=atom,discord,mongodb,github,linux,replit,stackoverflow,vscode&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discord,mongodb&theme=dark&perline=6" />
   </a>
 </p>
 </td>
