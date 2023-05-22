@@ -6,7 +6,7 @@
        <b>Howdy 👋</b>
     </th>
       <th width="500px">
-       <img src="https://lanyard.kyrie25.me/api/217414221728710656?hideStatus=true&bg=2B2D31&waveColor=2B2D31&waveSpotifyColor=2B2D31&gradient=38ef7d-11998e-38ef7d&imgStyle=square" />
+       <img src="https://lanyard.kyrie25.me/api/217414221728710656?hideStatus=true&bg=0D1117&waveColor=0D1117&waveSpotifyColor=0D1117&gradient=38ef7d-11998e-38ef7d&imgStyle=square" />
     </th>
     </tr> 
   </thead> 
