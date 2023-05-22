@@ -17,7 +17,6 @@
  <b>Languages</b>
    <br>
    <br>
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=6"/>
   </a>
 </p>
@@ -27,7 +26,6 @@
   <b>Tools</b>
    <br>
    <br>
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discord,mongodb&theme=dark&perline=6" />
   </a>
 </p>
