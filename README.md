@@ -12,21 +12,17 @@
   </thead> 
   <tbody>
   <tr width="600px">
-<td width="500px">
-  <p align="center">
+<td width="500px" colspan="2">
+  <p align="left">
  <b>Languages</b>
    <br>
    <br>
-      <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=6"/>
-  </a>
-</p>
-</td>
-<td width="500px">
- <p align="center">
+      <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=10"/>
+   <br>
   <b>Tools</b>
    <br>
    <br>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discord,mongodb&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discord,mongodb&theme=dark&perline=10" />
   </a>
 </p>
 </td>
