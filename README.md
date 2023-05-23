@@ -25,15 +25,15 @@
 <td width="500px" colspan="2">
   <p align="left">
  <b>Languages</b>
-   <img src='https://random-memer-production-b769.up.railway.app/' align="right" height="250" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+   <img src='https://random-memer-production-b769.up.railway.app/' align="right" height="250" width="250" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
    <br>
    <br>
-      <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=8"/>
+      <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=9"/>
    <br>
   <b>Tools</b>
    <br>
    <br>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discord,mongodb&theme=dark&perline=8" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discord,mongodb&theme=dark&perline=9" />
   </a>
 </p>
 </td>
