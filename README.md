@@ -10,19 +10,22 @@
  <table>
   <thead>
    <tr>
-      <th width="500px">
+      <th width="550px">
        <br>
        <br>
        <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%0D1117" alt="Jokes Card" />
     </th>
-      <th width="500px">
+      <th width="550px">
        <img src="https://lanyard.kyrie25.me/api/217414221728710656?hideStatus=true&bg=0D1117&gradient=38ef7d-11998e-38ef7d&imgStyle=square" />
     </th>
     </tr> 
-  </thead> 
+  </thead>
+ </table>
+ 
+ <table>
   <tbody>
   <tr width="600px">
-<td width="500px" colspan="2">
+<td width="1100px">
   <p align="left">
  <b>Languages</b>
    <img src='https://random-memer-production-b769.up.railway.app/' align="right" height="250" width="250" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
