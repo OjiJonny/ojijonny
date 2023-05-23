@@ -36,7 +36,7 @@
   <b>Tools</b>
    <br>
    <br>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discord,mongodb&theme=dark&perline=9" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discordbots,mongodb&theme=dark&perline=9" />
   </a>
 </p>
 </td>
