@@ -46,6 +46,7 @@
         <img align="center" alt="Linux" width="45px" height="49px" src="icons/Linux-Dark.svg" title="Linux"/>
         <img align="center" alt="VSCode" width="45px" height="49px" src="icons/VSCode-Dark.svg" title="VSCode"/>
         <img align="center" alt="GitHub" width="45px" height="49px" src="icons/Github-Dark.svg" title="GitHub"/>
+        <img align="center" alt="GitLab" width="45px" height="49px" src="icons/GitLab-Dark.svg" title="GitLab"/>
         <img align="center" alt="Replit" width="45px" height="49px" src="icons/Replit-Dark.svg" title="Replit"/>
         <img align="center" alt="StackOverflow" width="45px" height="49px" src="icons/StackOverflow-Dark.svg" title="StackOverflow"/>
         <img align="center" alt="Atom" width="45px" height="49px" src="icons/Atom-Dark.svg" title="Atom"/>
