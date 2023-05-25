@@ -1,11 +1,13 @@
-<!-- prettier-ignore. extra Lanyard code if wanted: &waveColor=7289DA&waveSpotifyColor=7289DA -->
- <table align="center">
-<tbody>
-  <tr>
-    <td> Howdy :shipit: </td>
-  </tr>
-</tbody>
-</table>
+<!-- prettier-ignore. extra Lanyard code if wanted: &waveColor=7289DA&waveSpotifyColor=7289DA 
+
+-->
+
+ <kbd><br>| <b>Howdy</b> |<br><br></kbd>
+ &nbsp;
+ <kbd><br>| <b>Jonny / 25</b> |<br><br></kbd>
+ &nbsp;
+ <kbd><br>| <a href="https://matias.ma/nsfw/"><b>Trust Me</b></a> |<br><br></kbd>
+ 
  
  <table>
   <thead>
