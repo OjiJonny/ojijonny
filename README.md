@@ -2,10 +2,12 @@
 <kbd><br>| <a href="https://matias.ma/nsfw/"><b>Trust Me</b></a> |<br><br></kbd>
 -->
 
- <h1>
+ <h1 align="center">
  <kbd><br>| <b>Howdy</b> |<br><br></kbd>
  &nbsp;
- <kbd><br>| <b>Jonny / 25</b> |<br><br></kbd>
+ <kbd><br>| <b>Jonny / 25 / LDN</b> |<br><br></kbd>
+ &nbsp;
+ <kbd><br>| <a href="https://kitsu.io/users/ojijonny/library"><b>Anime List?</b></a> |<br><br></kbd>
  &nbsp;
  <kbd><br>| <a href="https://matias.ma/nsfw/"><b>Trust Me</b></a> |<br><br></kbd>
  </h1>
