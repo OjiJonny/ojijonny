@@ -29,21 +29,32 @@
   <tbody>
    <tr width="600px">
     <td width="1100px">
-     <p align="left">
      <b>Languages</b>
      <img src='https://random-memer-production-b769.up.railway.app/' align="right" height="250" width="250" title="Meme" alt="Please refresh if no meme.">
-     <br>
-     <br>
-     <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=9" />
-     <br>
+      <p align="left">
+        <img align="center" alt="Bash" width="45px" height="49px" src="icons/Bash-Dark.svg" title="Bash"/>
+        <img align="center" alt="NodeJS" width="45px" height="49px" src="icons/NodeJS-Dark.svg" title="NodeJS"/>
+        <img align="center" alt="Java" width="45px" height="49px" src="icons/Java-Dark.svg" title="Java"/>
+        <img align="center" alt="Lua" width="45px" height="49px" src="icons/Lua-Dark.svg" title="Lua"/>
+        <img align="center" alt="Python" width="45px" height="49px" src="icons/Python-Dark.svg" title="Python"/>
+        <img align="center" alt="Javascript" width="45px" height="49px" src="icons/Javascript-Darksvg.svg" title="JavaScript"/>
+        <img align="center" alt="HTML" width="45px" height="49px" src="icons/HTML-Dark.svg" title="HTML"/>
+        <img align="center" alt="CSS" width="45px" height="49px" src="icons/CSS-Dark.svg" title="CSS"/>
+      </p>
      <b>Tools</b>
-     <br>
-     <br>
-     <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discordbots,mongodb&theme=dark&perline=9" />
-   </p>
+     <p align="left">
+        <img align="center" alt="Linux" width="45px" height="49px" src="icons/Linux-Dark.svg" title="Linux"/>
+        <img align="center" alt="VSCode" width="45px" height="49px" src="icons/VSCode-Dark.svg" title="VSCode"/>
+        <img align="center" alt="GitHub" width="45px" height="49px" src="icons/Github-Dark.svg" title="GitHub"/>
+        <img align="center" alt="Replit" width="45px" height="49px" src="icons/Replit-Dark.svg" title="Replit"/>
+        <img align="center" alt="StackOverflow" width="45px" height="49px" src="icons/StackOverflow-Dark.svg" title="StackOverflow"/>
+        <img align="center" alt="Atom" width="45px" height="49px" src="icons/Atom-Dark.svg" title="Atom"/>
+        <img align="center" alt="Jenkins" width="45px" height="49px" src="icons/Jenkins-Dark.svg" title="Jenkins"/>
+        <img align="center" alt="DiscordBots" width="45px" height="49px" src="icons/DiscordBots-Dark.svg" title="DiscordBots"/>
+        <img align="center" alt="MongoDB" width="45px" height="49px" src="icons/MongoDB-Dark.svg" title="MongoDB"/>
+     </p>
   </td>
  </tr>
 
 </tbody>
 </table>
-   
