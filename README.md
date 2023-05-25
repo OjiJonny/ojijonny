@@ -1,5 +1,5 @@
 <!-- prettier-ignore. extra Lanyard code if wanted: &waveColor=7289DA&waveSpotifyColor=7289DA 
-
+<kbd><br>| <a href="https://matias.ma/nsfw/"><b>Trust Me</b></a> |<br><br></kbd>
 -->
 
  <kbd><br>| <b>Howdy</b> |<br><br></kbd>
@@ -8,8 +8,7 @@
  &nbsp;
  <kbd><br>| <a href="https://matias.ma/nsfw/"><b>Trust Me</b></a> |<br><br></kbd>
  
- 
- <table>
+  <table>
   <thead>
    <tr>
       <th width="550px">
@@ -24,26 +23,25 @@
   </thead>
  </table>
  
- <table>
+<table>
   <tbody>
-  <tr width="600px">
-<td width="1100px">
-  <p align="left">
- <b>Languages</b>
-   <img src='https://random-memer-production-b769.up.railway.app/' align="right" height="250" width="250" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-   <br>
-   <br>
-      <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=9"/>
-   <br>
-  <b>Tools</b>
-   <br>
-   <br>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discordbots,mongodb&theme=dark&perline=9" />
-  </a>
-</p>
-</td>
-</tr>
+   <tr width="600px">
+    <td width="1100px">
+     <p align="left">
+     <b>Languages</b>
+     <img src='https://random-memer-production-b769.up.railway.app/' align="right" height="250" width="250" title="Meme" alt="Please refresh if no meme.">
+     <br>
+     <br>
+     <img src="https://skillicons.dev/icons?i=bash,nodejs,java,lua,python,js,html,css&theme=dark&perline=9" />
+     <br>
+     <b>Tools</b>
+     <br>
+     <br>
+     <img src="https://skillicons.dev/icons?i=linux,vscode,github,replit,stackoverflow,jenkins,atom,discordbots,mongodb&theme=dark&perline=9" />
+   </p>
+  </td>
+ </tr>
 
-  </tbody>
+</tbody>
 </table>
    
