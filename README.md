@@ -33,8 +33,6 @@
    <tr width="600px">
     <td width="1100px">
      <b>Languages</b>
-     <img src='https://random-memer-production-b769.up.railway.app/' align="right" height="250" width="250" title="Meme" alt="Please refresh if no meme.">
-      <p align="left">
         <img align="center" alt="Bash" width="45px" height="49px" src="icons/Bash-Dark.svg" title="Bash"/>
         <img align="center" alt="NodeJS" width="45px" height="49px" src="icons/NodeJS-Dark.svg" title="NodeJS"/>
         <img align="center" alt="Java" width="45px" height="49px" src="icons/Java-Dark.svg" title="Java"/>
